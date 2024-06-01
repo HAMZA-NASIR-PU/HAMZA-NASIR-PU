@@ -31,5 +31,6 @@ I'm a passionate software engineer with over three years of experience in Java S
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hafiz-hamza-nasir-027737185/))
-- Email: [Your Email Address](mailto:hamzanasir1111.hn@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamzanasir1111.hn%40gmail.com-brightgreen)](mailto:hamzanasir1111.hn@gmail.com.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HamzaNasir-blue)](https://www.linkedin.com/in/hafiz-hamza-nasir-027737185/)
