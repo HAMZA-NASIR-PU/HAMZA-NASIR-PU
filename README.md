@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm HAMZA 👋
 
 ## About Me
 
-I'm a passionate software engineer with over three years of experience in Java Spring Boot and Angular development. Currently diving deep into ASP.NET Core with .NET 6. My journey in the tech world is fueled by a relentless pursuit of knowledge and a knack for solving complex problems.
+I'm a passionate software engineer with over three years of experience in Java Spring Boot and Angular development. Currently diving deep into ASP.NET Core with .NET 6+. My journey in the tech world is fueled by a relentless pursuit of knowledge and a knack for solving complex problems.
 
 ## 🔭 I’m currently working on
 
-- Mastering ASP.NET Core with .NET 6
+- Mastering ASP.NET Core with .NET 6+
 - Enhancing my skills in full-stack development
 - Contributing to open-source projects
 - Cloud technologies (AWS/Azure)
@@ -14,7 +14,7 @@ I'm a passionate software engineer with over three years of experience in Java S
 
 ## 🌱 I’m currently learning
 
-- ASP.NET Core with .NET 6
+- ASP.NET Core with .NET 6+
 - Advanced software design patterns
 
 ## 👯 I’m looking to collaborate on
