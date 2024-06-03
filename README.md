@@ -16,6 +16,7 @@ I'm a passionate software engineer with over three years of experience in Java S
 
 - ASP.NET Core with .NET 6+
 - Advanced software design patterns
+- AWS Solution Architect Associate Certification (SAA-C03)
 
 ## 👯 I’m looking to collaborate on
 
