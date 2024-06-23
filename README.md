@@ -6,7 +6,7 @@ I'm a passionate software engineer with over three years of experience in Java S
 
 ## 🔭 I’m currently working on
 
-- Mastering ASP.NET Core with .NET 6+
+- Mastering Java Spring Boot 3+
 - Enhancing my skills in full-stack development
 - Contributing to open-source projects
 - Cloud technologies (AWS/Azure)
@@ -17,6 +17,7 @@ I'm a passionate software engineer with over three years of experience in Java S
 - ASP.NET Core with .NET 6+
 - Advanced software design patterns
 - AWS Solution Architect Associate Certification (SAA-C03)
+- Advanced SQL Queries
 
 ## 👯 I’m looking to collaborate on
 
