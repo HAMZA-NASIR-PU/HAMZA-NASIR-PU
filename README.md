@@ -1,28 +1,41 @@
-# Hi there, I'm HAMZA 👋
+# Hi there, I'm HAMZA NASIR 👋
 
 ## About Me
 
-I'm a passionate software engineer with over three years of experience in Java Spring Boot and Angular development. Currently diving deep into ASP.NET Core with .NET 6+. My journey in the tech world is fueled by a relentless pursuit of knowledge and a knack for solving complex problems.
+Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient, scalable, and user-friendly solutions. Here’s a quick look at my expertise and interests:  
 
-## 🔭 I’m currently working on
+🌟 **Backend Technologies:**  
+- Proficient in **Java**, **.NET Core**, and **Node.js** for building robust server-side applications.  
 
-- Mastering Java Spring Boot 3+
-- Enhancing my skills in full-stack development
-- Contributing to open-source projects
-- Cloud technologies (AWS/Azure)
-- Developing projects in Spring Boot and ANgular
+🌟 **Frontend Expertise:**  
+- Mastering modern web development with **Angular** and **React**, creating seamless and interactive user interfaces.  
+
+🌟 **DevOps Enthusiast:**  
+- Skilled in managing **CI/CD pipelines**, deploying artifacts to **Docker Hub**, and handling **Bitbucket Pipelines**.  
+- Experienced with **Terraform** and **AWS Cloud** services for infrastructure as code and cloud solutions.  
+
+🌟 **Monitoring & Analytics:**  
+- Utilizing **Grafana** for metrics analysis and log monitoring to ensure optimal application performance.  
+
+## 💻 Tech Stack  
+
+- **Languages:** Java ☕ | C# 🌐 | Node.js 🟢  
+- **Frontend:** Angular ⚡ | React ⚛️  
+- **Cloud & DevOps:** AWS ☁️ | Terraform 📜 | Docker 🐳  | Bitbucket 🧵
+- **Monitoring & Analytics:** Grafana 📊  
 
 ## 🌱 I’m currently learning
 
-- ASP.NET Core with .NET 6+
-- Advanced software design patterns
-- AWS Solution Architect Associate Certification (SAA-C03)
-- Advanced SQL Queries
+- Advanced **software design patterns**
+- Advanced **SQL Queries**
+- **Artificial Intelligence (AI)** and **Machine Learning (ML)**
+- Exploring **vector databases** for efficient data storage and retrieval
 
 ## 👯 I’m looking to collaborate on
 
-- Open-source projects in Java, Angular, and ASP.NET Core
-- Building innovative web applications
+- Open-source projects in **Java**, **Angular**, and **ASP.NET Core**
+- Building innovative and scalable web applications
+- AI/ML projects involving data engineering and analysis
 
 ## 💬 Ask me about
 
@@ -30,6 +43,7 @@ I'm a passionate software engineer with over three years of experience in Java S
 - Angular development
 - ASP.NET Core
 - Software architecture
+- React development
 
 ## 📫 How to reach me
 
