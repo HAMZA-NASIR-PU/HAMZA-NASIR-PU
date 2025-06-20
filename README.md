@@ -5,7 +5,7 @@
 Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient, scalable, and user-friendly solutions. Here’s a quick look at my expertise and interests:  
 
 🌟 **Backend Technologies:**  
-- Proficient in **Java**, **.NET Core**, and **Node.js** for building robust server-side applications.  
+- Proficient in **Java**, **Spring**, **Spring Boot**, and **Node.js** for building robust server-side applications.  
 
 🌟 **Frontend Expertise:**  
 - Mastering modern web development with **Angular** and **React**, creating seamless and interactive user interfaces.  
@@ -30,15 +30,20 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 
 ## 👯 I’m looking to collaborate on
 
-- Open-source projects in **Java**, **Angular**, and **ASP.NET Core**
+- Open-source projects in **Java**, **Angular**, and **React**
 - Building innovative and scalable web applications
 - AI/ML projects involving data engineering and analysis
 
 ## 💬 Ask me about
 
-- Java Spring Boot
+- Java
+- Spring
+- Spring Security
+- Hibernate
+- Spring Data JPA
+- Spring Data Commons
+- Spring Boot
 - Angular development
-- ASP.NET Core
 - Software architecture
 - React development
 
