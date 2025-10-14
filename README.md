@@ -11,7 +11,8 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Mastering modern web development with **Angular** and **React**, creating seamless and interactive user interfaces.  
 
 🌟 **DevOps Enthusiast:**  
-- Skilled in managing **CI/CD pipelines**, deploying artifacts to **Docker Hub**, and handling **Bitbucket Pipelines**.  
+- Skilled in managing **CI/CD pipelines**, deploying artifacts to **Docker Hub**, and handling **Bitbucket Pipelines**.
+- Strong expertise in writing **Bash** scripts.
 - Experienced with **Terraform** and **AWS Cloud** services for infrastructure as code and cloud solutions.  
 
 🌟 **Monitoring & Analytics:**  
