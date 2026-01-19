@@ -44,9 +44,19 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Spring Data JPA
 - Spring Data Commons
 - Spring Boot
-- Angular development
+- Angular(7+) development
 - Software architecture
+- Design patterns
+- Microservice
+- DevOps
+- CI/CD Pipeline
 - React development
+- Linux Shell
+- Bash/Shell Scripting
+- Regular Expresseions (awk, sed, grep)
+- SQL
+- MySQL
+- NoSQL (MongoDB)
 
 ## 📫 How to reach me
 
