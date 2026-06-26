@@ -5,15 +5,15 @@
 Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient, scalable, and user-friendly solutions. Here’s a quick look at my expertise and interests:  
 
 🌟 **Backend Technologies:**  
-- Proficient in **Java**, **Spring**, **Spring Boot**, and **Node.js** for building robust server-side applications.  
+- Proficient in **Java**, **Spring**, **Spring Boot**, **C#**, **.NET**, and **Node.js** for building robust server-side applications.
 
 🌟 **Frontend Expertise:**  
-- Mastering modern web development with **Angular** and **React**, creating seamless and interactive user interfaces.  
+- Strong expertise in modern web development with **Angular** and **React**, creating seamless and interactive Admin Panels.  
 
 🌟 **DevOps Enthusiast:**  
 - Skilled in managing **CI/CD pipelines**, deploying artifacts to **Docker Hub**, and handling **Bitbucket Pipelines**.
 - Strong expertise in writing **Bash** scripts.
-- Experienced with **Terraform** and **AWS Cloud** services for infrastructure as code and cloud solutions.  
+- Experienced with **Terraform** and **AWS Cloud (EC2, S3, IAM, RDS, Bedrock, Aurora, Security Groups, VPC, CloudWatch, CloudTrail, EventBridge, Systems Manager, ECR, ECS, EKS)** services for infrastructure as code and cloud solutions.  
 
 🌟 **Monitoring & Analytics:**  
 - Utilizing **Grafana** for metrics analysis and log monitoring to ensure optimal application performance.  
@@ -37,7 +37,7 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Spring Data JPA
 - Spring Data Commons
 - Spring Boot
-- Angular(7+) development
+- Angular (7+) development
 - Software architecture
 - Design patterns
 - Microservice
@@ -45,10 +45,12 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - CI/CD Pipeline
 - React development
 - Linux Shell
+- Linux Administration
 - Bash/Shell Scripting
 - Regular Expresseions (awk, sed, grep)
 - SQL
 - MySQL
+- PostgreSQL
 - NoSQL (MongoDB)
 
 ## 📫 How to reach me
