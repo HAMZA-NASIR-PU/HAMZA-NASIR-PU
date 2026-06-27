@@ -13,7 +13,8 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 🌟 **DevOps Enthusiast:**  
 - Skilled in managing **CI/CD pipelines**, deploying artifacts to **Docker Hub**, and handling **Bitbucket Pipelines**.
 - Strong expertise in writing **Bash** scripts.
-- Experienced with **Terraform** and **AWS Cloud (EC2, S3, IAM, RDS, Bedrock, Aurora, Security Groups, VPC, CloudWatch, CloudTrail, EventBridge, Systems Manager, ECR, ECS, EKS)** services for infrastructure as code and cloud solutions.  
+- Experienced with **Terraform** and **AWS Cloud (EC2, S3, IAM, RDS, Bedrock, Aurora, Security Groups, VPC, CloudWatch, CloudTrail, EventBridge, Systems Manager, ECR, ECS, EKS)** services for infrastructure as code and cloud solutions.
+- Strong expertise in Linux Administration (Red Hat Enterprise Linux - RHEL)
 
 🌟 **Monitoring & Analytics:**  
 - Utilizing **Grafana** for metrics analysis and log monitoring to ensure optimal application performance.  
