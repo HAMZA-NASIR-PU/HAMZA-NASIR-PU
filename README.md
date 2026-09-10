@@ -28,6 +28,7 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Open-source projects in **Java**, **Angular**, and **React**
 - Building innovative and scalable web applications
 - AI/ML projects involving data engineering and analysis
+- Writing technical articles on cloud and infra.
 
 ## 💬 Ask me about
 
