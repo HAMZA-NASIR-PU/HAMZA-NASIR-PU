@@ -35,8 +35,10 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Spring
 - Spring Security
 - Hibernate
-- Spring Data JPA
-- Spring Data Commons
+- Docker
+- Kubernetes
+- AWS
+- Ansible
 - Spring Boot
 - Angular (7+) development
 - Software architecture
@@ -53,9 +55,13 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - MySQL
 - PostgreSQL
 - NoSQL (MongoDB)
+- Redis
+- Microservices
 
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-hamzanasir1111.hn%40gmail.com-brightgreen)](mailto:hamzanasir1111.hn@gmail.com.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HamzaNasir-blue)](https://www.linkedin.com/in/hafiz-hamza-nasir-027737185/)
+
+[![Medium](https://img.shields.io/badge/Medium-HamzaNasir-blue)](https://medium.com/@hamzanasir1111.hn)
