@@ -39,6 +39,7 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Docker
 - Kubernetes
 - AWS
+- Multithreading
 - Ansible
 - Spring Boot
 - Angular (7+) development
@@ -51,7 +52,7 @@ Hi there! 👋 I'm a **Software Engineer** with a passion for crafting efficient
 - Linux Shell
 - Linux Administration
 - Bash/Shell Scripting
-- Regular Expresseions (awk, sed, grep)
+- Regular Expressions (awk, sed, grep)
 - SQL
 - MySQL
 - PostgreSQL
